@@ -8,6 +8,13 @@
 
 A client using the Postcode.nl REST API for Dutch address verification.
 
+This is a clone from [Speelpenning-nl/laravel-postcode-nl](https://github.com/Speelpenning-nl/laravel-postcode-nl). I forked this repo to add a Tag for Laravel 5.5 LTS.
+
+## Legacy versions (unsupported)
+Laravel 5.6: 4.0.1
+Laravel 5.5: 3.1.0
+Laravel 5.4: 3.0.4
+
 ## Installation 
 
 Pull the package in through Composer:
