@@ -1,11 +1,15 @@
 {
-    "name": "speelpenning/laravel-postcode-nl",
-    "description": "A Laravel client using the Postcode.nl REST API for Dutch address verification.",
+    "name": "joostvanveen/laravel-postcode-nl",
+    "description": "A Laravel client using the Postcode.nl REST API for Dutch address verification. Forked from https://github.com/Speelpenning-nl/laravel-postcode-nl",
     "license": "MIT",
     "authors": [
         {
             "name": "Gerben Speelpenning",
             "email": "gerben@speelpenning.nl"
+        },
+        {
+            "name": "Joost van Veen",
+            "email": "joost@accentinteractive.nl"
         }
     ],
     "require": {
